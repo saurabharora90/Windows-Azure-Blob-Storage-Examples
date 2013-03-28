@@ -1,6 +1,6 @@
-#Windows Azure Blob Storags Examples
+#Windows Azure Blob Storage Examples
 
-Examples showing how to use the Windows Azure blob storage using the Azure SDK for PHP. The guide on [How to use the Blob service from PHP] (http://www.windowsazure.com/en-us/develop/php/how-to-guides/blob-service/) shows you how to basic operation on the Blob Storage. These example shall extend on them to show you how to use the other functions and how to upload and retrive large media files.
+Examples showing how to use the Windows Azure blob storage using the Azure SDK for PHP. The guide on [How to use the Blob service from PHP] (http://www.windowsazure.com/en-us/develop/php/how-to-guides/blob-service/) shows you how to basic operation on the Blob Storage. These example shall extend on them to show you how to use the other functions and how to upload and retrive large media files using the Azure PHP SDK which wraps the REST API
 
 >Note: I wrote these samples when the Azure SDK for PHP was new and most of the example I could find were based on the [Old SDK] (http://phpazure.codeplex.com/)
 
